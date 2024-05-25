@@ -27,6 +27,8 @@
 
 提取码: iv79
 
+github的原始代码：[https://gitHub.com/Kindxiaoming/pykan](https://gitHub.com/Kindxiaoming/pykan)
+
 ## KANs的数学算法(Kolmogorov-Arnold Representation Theorem)：
 
 $$
