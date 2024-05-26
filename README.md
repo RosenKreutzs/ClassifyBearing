@@ -21,12 +21,11 @@
 - 对于LSTM模型，一维对象的训练数据输入形状的堆叠处理方案是 先将一维对象[堆叠处理](./LSTM/TRY.ipynb)为二维对象，直接用单个二维对象的形状为输入形状；
 - [KANs的个人理解](./KANs/EXPLAINATION.md);
 - [连续小波变换](./VGG/EXPLAINATION_CWT.md)
+- [短时傅里叶变换](./VGG/EXPLAINATION_STFT.md)
+- [快速傅里叶变换](./VGG/EXPLAINATION_FFT.md)
 
 ### 4.未完成事项
 
-- 短时傅里叶变换;
-- 傅里叶变换；
-- 快速傅里叶变换；
 - 经验模态分解;
 - 变分模态分解；
 - VGG的个人理解；
