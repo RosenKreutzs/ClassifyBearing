@@ -36,6 +36,5 @@
 - 随机森林的个人理解；
 - transformer的个人理解；(Cross attention机制)
 - GRU的个人理解；(BiGRU的个人理解)
-- LSTM的个人理解；(BiLSTM的个人理解)
 - KANs模型的外迁；
 - 未连接WPS笔记；
