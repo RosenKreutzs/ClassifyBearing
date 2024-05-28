@@ -23,13 +23,14 @@
 - [连续小波变换](./VGG/EXPLAINATION_CWT.md)
 - [短时傅里叶变换](./VGG/EXPLAINATION_STFT.md)
 - [快速傅里叶变换](./VGG/EXPLAINATION_FFT.md)
+- [VGG16的个人理解](./VGG/EXPLAINATION_CNN.md)
+- [CNN的个人理解](./VGG/EXPLAINATION_CNN.md)
+- [RNN的个人理解](./LSTM/EXPLAINATION_RNN.md)
 
 ### 4.未完成事项
 
 - 经验模态分解;
 - 变分模态分解；
-- VGG的个人理解；
-- CNN的个人理解；
 - XGBoost的个人理解；
 - svm的个人理解；
 - 随机森林的个人理解；
