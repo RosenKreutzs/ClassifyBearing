@@ -28,13 +28,20 @@
 - [RNN的个人理解](./LSTM/EXPLAINATION_RNN.md)
 - [LSTM的个人理解](./LSTM/EXPLAINATION_LSTM.md)
 - [GRU的个人理解](./LSTM/EXPLAINATION_GRU.md)
+- [经验模态分解](./LSTM/EXPLAINATION_EMD.md)
+- [变分模态分解](./LSTM/EXPLAINATION_VMD.md)
 ### 4.未完成事项
-
-- 经验模态分解;
-- 变分模态分解；
 - XGBoost的个人理解；
 - svm的个人理解；
 - 随机森林的个人理解；
 - transformer的个人理解；(Cross attention机制)
+- 循环神经网络的双向机制；
 - KANs模型的外迁；
+- 零时域过零率（ZCR）；
+-  基于统计学的方法
+  - 均方根（RMS）
+  - 峭度（Kurtosis）
+  - 偏度（Skewness）
+  - 主成分分析（PCA）
+  - 自适应滤波算法
 - 未连接WPS笔记；
