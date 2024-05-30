@@ -26,7 +26,8 @@
 - [VGG16的个人理解](./VGG/EXPLAINATION_CNN.md)
 - [CNN的个人理解](./VGG/EXPLAINATION_CNN.md)
 - [RNN的个人理解](./LSTM/EXPLAINATION_RNN.md)
-
+- [LSTM的个人理解](./LSTM/EXPLAINATION_LSTM.md)
+- [GRU的个人理解](./LSTM/EXPLAINATION_GRU.md)
 ### 4.未完成事项
 
 - 经验模态分解;
@@ -35,6 +36,5 @@
 - svm的个人理解；
 - 随机森林的个人理解；
 - transformer的个人理解；(Cross attention机制)
-- GRU的个人理解；(BiGRU的个人理解)
 - KANs模型的外迁；
 - 未连接WPS笔记；
