@@ -35,4 +35,3 @@
 ### 4.未完成事项
 - transformer的外迁；(Cross attention机制)
 - KANs的外迁；
-- 未连接WPS笔记；
