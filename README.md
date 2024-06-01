@@ -5,7 +5,7 @@
 - 预期效果：准确率达到95%；
 - 要求：作为轴承故障诊断和分类的入门项目；
 - 数据来源：凯斯西储大学轴承故障数据集([西储大学轴承数据中心对应该数据的网站](https://link.csdn.net/?target=https%3A%2F%2Fengineering.case.edu%2Fbearingdatacenter%2Fwelcome))；
-
+- ADS文件夹的数据太多了，上传过于麻烦，存储在Kaggle的服务器中；
 ### 2.anconda环境
 
 - 打包环境
