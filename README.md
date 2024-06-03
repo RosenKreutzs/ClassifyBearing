@@ -32,6 +32,5 @@
 - [XGBoost的个人理解](./XGBoost/EXPLAINATION_XGBoost.md)
 - [RandomForest的个人理解](./XGBoost/EXPLAINATION_RandomForest.md)
 - [svm的个人理解](./XGBoost/EXPLAINATION_SVM.md)
+- [transformer的个人理解](./EXPLAINATION_Transformer.md)
 ### 4.未完成事项
-- transformer的外迁；(Cross attention机制)
-- KANs的外迁；
